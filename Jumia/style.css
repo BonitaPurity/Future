@@ -1,0 +1,52 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html
+{
+    height: 100%;
+}
+
+body
+{
+    padding: 12px;
+    background-color: whitesmoke;
+}
+
+header
+{
+    border: 3px solid green;
+}
+
+.upper
+{
+    display: flex;
+    padding: 5px;
+}
+
+.paragraph
+{
+    margin-left: 25%;
+}
+f.lower
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin: 10px;
+}
+
+main
+{
+    padding: 10px;
+}
+h1
+{
+    color: black;
+}
